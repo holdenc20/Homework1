@@ -1,0 +1,4 @@
+I was not able to set the distance to 2/3 times the sd because I was not getting any good overlap
+I had to do about 1 to 1.5 times the sd to get a good overlap (about 1% being misclassified)
+
+I was going to about 2/3 of the data to be correctly classified
